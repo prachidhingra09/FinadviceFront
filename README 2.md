@@ -1,0 +1,2 @@
+# StickyNotesFront
+Simple MERN Frontend
